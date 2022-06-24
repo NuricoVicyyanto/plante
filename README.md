@@ -20,6 +20,6 @@ Plante is an open source program that aims to collect plants data and turn it in
 
 <br>
 <hr>
-Collect pictures of your plants and I will give you a machine learning model to identify plants
+Collect pictures of your plants and I will give you a machine learning model to identify plants.
 
 let's contribute to my project !!!
