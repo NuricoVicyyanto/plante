@@ -1,6 +1,6 @@
 # Plante
 
-Plante is an open source program that aims to collect plant data and turn it into a machine learning model that can be implemented across multiple platforms.
+Plante is an open source program that aims to collect plants data and turn it into a machine learning model that can be implemented across multiple platforms.
 
 <br>
 
