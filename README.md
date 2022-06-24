@@ -1,8 +1,5 @@
 # Plante
 
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>
 Plante is an open source program that aims to collect plant data and turn it into a machine learning model that can be implemented across multiple platforms.
 
 <h3 align="center">Languages and Tools:</h3>
