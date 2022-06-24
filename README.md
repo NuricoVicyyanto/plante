@@ -9,9 +9,10 @@ Plante is an open source program that aims to collect plants data and turn it in
 <br>
 
  It is python based and can be implemented in bots, websites and mobile. You can apply it easily using :
- - Django
- - Flask
- - python-telegram-bot
+
+- Django
+- Flask
+- python-telegram-bot
 
 <br>
 
